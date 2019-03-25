@@ -3,8 +3,6 @@ layout: post
 title: TDD-ing stuff
 ---
 
-I can write tests (I think, or I think I can). But I didn't really get the chance to learn TDD and apply it in any of the projects I've worked with so far.
-
 ### What on earth is TDD?
 TDD is defined as a style of development where code to test the functionality is written first before implementing the function itself. - From someone
 
